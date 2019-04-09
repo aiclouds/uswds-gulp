@@ -115,7 +115,7 @@ gulp.task('init', gulp.series(
   'copy-uswds-fonts',
   'copy-uswds-images',
   'copy-uswds-js',
-  'build-sass',
+  'build-sass'
 ));
 
 gulp.task('watch-sass', function () {
