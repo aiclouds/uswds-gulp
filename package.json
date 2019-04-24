@@ -30,6 +30,6 @@
     "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.4",
     "path": "^0.12.7",
-    "uswds": "^2.0.0-beta"
+    "uswds": "^2.0.0"
   }
 }
